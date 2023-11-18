@@ -1,6 +1,4 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
 import joblib
 
 def build_prediction_page(clean_df, empty_df):
